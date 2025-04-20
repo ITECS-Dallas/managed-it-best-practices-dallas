@@ -21,6 +21,6 @@ You can also visit the [ITECS homepage](https://itecsonline.com) to explore all 
 ---
 
 ## 🔗 Related Resources
-- [Cybersecurity Checklist for SMBs in Dallas](./cybersecurity-checklist-dallas.md)
-- [Evaluate a Managed Service Provider](./msp-evaluation-checklist.md)
+- [Cybersecurity Checklist for SMBs in Dallas](https://github.com/ITECS-Dallas/cybersecurity-assessment-checklist/blob/main/network-security.md)
+- [Evaluate a Managed Service Provider](https://github.com/ITECS-Dallas/cybersecurity-assessment-checklist/blob/main/msp-evaluation-checklist.md)
 - [Full Infrastructure Planning Template](./it-infrastructure-template.md)
