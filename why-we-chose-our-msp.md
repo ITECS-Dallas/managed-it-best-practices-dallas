@@ -13,3 +13,6 @@ For a deeper look at our provider and what made them stand out, visit:
 
 📬 Also published here on Substack:  
 [How We Chose Our MSP (Tech Strategy Dispatch)](https://techstrategydispatch.substack.com/p/how-we-chose-our-msp-and-what-we)
+    
+🔗 And on Google:
+[How We Chose Our Managed IT Services Provider](https://sites.google.com/view/dallas-msp-guide/home)
