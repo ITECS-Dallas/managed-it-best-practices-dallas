@@ -2,7 +2,7 @@
 
 Finding a reliable MSP in Dallas isn’t easy. We evaluated six different providers before making a decision, and we documented the entire process — from red flags to success indicators.
 
-➡️ [Read our full story on Notion](https://itecsonline.com/it-services/managed-it-services-in-dallas)
+➡️ [Read our full story on Notion](https://industrious-helium-3b1.notion.site/How-We-Chose-Our-MSP-A-Dallas-IT-Survival-Guide-1dba6216693a808e9f05f49a122a95c2?pvs=4)
 
 If you're currently vetting providers or just want a practical checklist, download the guide below:
 
