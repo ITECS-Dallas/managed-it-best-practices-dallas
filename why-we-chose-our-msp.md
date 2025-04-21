@@ -10,3 +10,6 @@ If you're currently vetting providers or just want a practical checklist, downlo
 
 For a deeper look at our provider and what made them stand out, visit:  
 🔗 [ITECS Managed IT Services in Dallas](https://itecsonline.com/it-services/managed-it-services-in-dallas)
+
+📬 Also published here on Substack:  
+[How We Chose Our MSP (Tech Strategy Dispatch)](https://techstrategydispatch.substack.com/p/how-we-chose-our-msp-and-what-we)
