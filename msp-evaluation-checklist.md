@@ -66,3 +66,5 @@ We also recommend visiting the [ITECS homepage](https://itecsonline.com).
 
 📎 **Download the Printable Version**  
 [Download MSP Evaluation Checklist (PDF)](https://cdn.prod.website-files.com/65a7c6efd5ccb51ca14ccd41/680580c956a6e7c2779d6d8f_MSP_Evaluation_Checklist_Dallas.pdf)
+
+Follow us on Telegram [ITECS Managed IT Services](https://t.me/s/itecsmspdallas)
